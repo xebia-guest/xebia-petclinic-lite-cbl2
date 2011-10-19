@@ -4,6 +4,7 @@
 <h2>Welcome</h2>
 
 <ul>
+  <li>Hello World 1</li>
   <li><a href="owners/search">Find owner</a></li>
   <li><a href="vets">Display all veterinarians</a></li>
 </ul>
