@@ -6,6 +6,7 @@
 <ul>
   <li>Hello World 1</li>
   <li>Hello World 2</li>
+  <li>Hello World 3</li>
   <li><a href="owners/search">Find owner</a></li>
   <li><a href="vets">Display all veterinarians</a></li>
 </ul>
